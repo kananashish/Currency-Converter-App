@@ -57,9 +57,6 @@ Contributions are welcome! To contribute:
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a Pull Request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgements
 - [React](https://reactjs.org/) for the frontend framework.
 - [ExchangeRate-API](https://www.exchangerate-api.com/) (or your chosen API provider) for providing exchange rate data.
